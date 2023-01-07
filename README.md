@@ -6,7 +6,7 @@ Essa é uma API REST simples, desenvolvida em Ruby para fins de estudo.
 
 * Ruby 3.0.5
 * Rails 7.0.4
-* PostgreSQL
+* SQLite
 
 ### Como rodar
 
